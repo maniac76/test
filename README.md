@@ -8,4 +8,5 @@
 * 기업들이 개인정보 이용시에, 개인에게 적절한 보상을 하게 한다.
 
 # 토큰 이코노미
-https://user-images.githubusercontent.com/35059274/47355826-5f600b80-d6fd-11e8-9db0-ab182c68d063.png
+![default](https://user-images.githubusercontent.com/35059274/47355826-5f600b80-d6fd-11e8-9db0-ab182c68d063.png)
+
