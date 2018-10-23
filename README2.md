@@ -12,3 +12,4 @@
 
 # 토큰 이코노미
 
+![2](https://user-images.githubusercontent.com/35059274/47356857-3725dc00-d700-11e8-92ed-e15c022048d4.png)
